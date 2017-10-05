@@ -1,2 +1,3 @@
 # coming-soon
-Coming Soon Landing page for evolutiolabs.io
+
+A temporary Coming Soon page for evolutiolabs.io
